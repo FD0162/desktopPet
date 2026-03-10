@@ -8,4 +8,8 @@ right click: 1. say hello 2. update api key 3. check the conversation history 4.
 
 say something to it in the bottom dialog window
 
-When use it daily, it was set in a Miku default personality, that would be a little silly. So if you want to use it not only for emotional value, you can tell it to exit role-play at first, then it'll become a normal AI assistant to help you anything. Each time you run it, the conversation history will be clear.
+When use it daily, it was set in a Miku default personality, that would be a little silly. So if you want to use it not only for emotional value, you can tell it to exit role-play at first, then it'll become a normal AI assistant to help you anything. Each time you run it, the conversation history will be cleared.
+
+the source code is "pet_pyqt.py"
+
+the exe is in "dist" file
